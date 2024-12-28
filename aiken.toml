@@ -1,0 +1,18 @@
+name = "apea-aiken-batch-1/aiken_gift_card"
+version = "0.0.0"
+compiler = "v1.1.9"
+plutus = "v3"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'apea-aiken-batch-1/aiken_gift_card'"
+
+[repository]
+user = "apea-aiken-batch-1"
+project = "aiken_gift_card"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "v2.2.0"
+source = "github"
+
+[config]
