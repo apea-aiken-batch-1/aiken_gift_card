@@ -28,7 +28,7 @@
     "clsx": "2.1.1",
     "framer-motion": "~11.15.0",
     "intl-messageformat": "^10.5.0",
-    "next": "14.2.4",
+    "next": "^14.2.4",
     "next-themes": "^0.2.1",
     "react": "18.3.1",
     "react-dom": "18.3.1"
@@ -41,7 +41,7 @@
     "@typescript-eslint/parser": "8.11.0",
     "autoprefixer": "10.4.19",
     "eslint": "^8.57.0",
-    "eslint-config-next": "14.2.1",
+    "eslint-config-next": "^14.2.1",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.4.1",
